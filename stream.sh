@@ -3,9 +3,9 @@
 VBR="1500k"
 FPS="30"
 QUAL="veryfast"
-RTMP_URL="rtmps"
-RTMP_KEY="rtmp key"
-VIDEO_SOURCE="videos/your.mp4"
+RTMP_URL="rtmps://live-api-s.facebook.com:443/rtmp/"
+RTMP_KEY="FB-4359889340791417-0-AbznHPMKDywdbUZh"
+VIDEO_SOURCE="dev/QV2ray.mp4"
 AUDIO_SOURCE="mp3/your.mp3"
 AUDIO_ENCODER="aac"
 
